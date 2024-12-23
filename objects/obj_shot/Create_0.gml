@@ -1,0 +1,1 @@
+distanceMax = 0;

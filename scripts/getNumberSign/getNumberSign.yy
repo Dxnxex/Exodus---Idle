@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getNumberSign",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getNumberSign",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Scripts/Game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

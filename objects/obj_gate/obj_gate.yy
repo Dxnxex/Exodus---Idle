@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_main",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_gate",
+  "eventList":[],
   "managed":true,
-  "name":"obj_main",
+  "name":"obj_gate",
   "overriddenProperties":[],
   "parent":{
     "name":"Game",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_main",
-    "path":"sprites/spr_main/spr_main.yy",
+    "name":"spr_gate",
+    "path":"sprites/spr_gate/spr_gate.yy",
   },
   "spriteMaskId":null,
   "visible":true,

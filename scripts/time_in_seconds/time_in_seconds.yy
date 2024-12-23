@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"time_in_seconds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"time_in_seconds",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Game/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"level_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"level_set",
+  "parent":{
+    "name":"Levels",
+    "path":"folders/Scripts/Game/Levels.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

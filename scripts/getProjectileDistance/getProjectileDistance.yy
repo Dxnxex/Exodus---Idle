@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getProjectileDistance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getProjectileDistance",
+  "parent":{
+    "name":"Weapon",
+    "path":"folders/Scripts/Game/Weapon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
